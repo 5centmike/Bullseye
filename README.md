@@ -10,3 +10,5 @@ This tool converts Euclidean distance plots to Manhattan or L1 Norm circular plo
 This tool reshapes a 2D heatmap to produce a circular plot where the Euclidean distance within the circular plot is equal to the Manhatten distance from the center point in the original. In the figure below the data points in the blue diamond have been remapped into the blue circle.
 
 ![plots](https://github.com/5centmike/Bullseye/blob/main/plots.png)
+
+This tool allows for a better visualization and understanding of the dynamics of polymer looping interactions, and I assume is likely applicable to other polymer interaction analyses beyond genomics.
