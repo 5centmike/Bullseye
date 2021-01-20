@@ -11,4 +11,4 @@ This tool reshapes a 2D heatmap to produce a circular plot where the Euclidean d
 
 ![plots](https://github.com/5centmike/Bullseye/blob/main/plots.png)
 
-This tool allows for a better visualization and understanding of the dynamics of polymer looping interactions, and I assume is likely applicable to other polymer interaction analyses beyond genomics.
+This tool allows for a better visualization and understanding of the dynamics of polymer looping interactions, and I assume is likely applicable to other polymer interaction analyses beyond genomics. In it's current form it is not immediately usable to convert plots but the internal math and logic can be easily adapted.
